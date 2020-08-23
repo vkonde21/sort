@@ -1,0 +1,24 @@
+total 429868
+drwxr-xr-x 3 vaishnavi vaishnavi     12288 Nov  9 23:19 .
+drwxr-xr-x 4 vaishnavi vaishnavi      4096 Nov  9 18:52 ..
+-rw-r--r-- 1 vaishnavi vaishnavi         0 Nov  4 05:18 deftest.txt
+-rw-r--r-- 1 vaishnavi vaishnavi     11786 Nov  9 23:17 file.c
+-rw-r--r-- 1 vaishnavi vaishnavi        33 Oct 23 17:48 file.h
+-rw-r--r-- 1 vaishnavi vaishnavi     23720 Nov  9 23:17 file.o
+-rw-r--r-- 1 vaishnavi vaishnavi      4878 Nov  9 22:27 heap.c
+-rw-r--r-- 1 vaishnavi vaishnavi       717 Oct 30 18:33 heap.h
+-rw-r--r-- 1 vaishnavi vaishnavi      6968 Nov  9 22:28 heap.o
+-rwxr-xr-x 1 vaishnavi vaishnavi     31536 Nov  9 23:17 k
+-rw-r--r-- 1 vaishnavi vaishnavi       410 Nov  1 17:03 key.c
+-rw-r--r-- 1 vaishnavi vaishnavi       435 Nov  1 17:03 key.h
+-rw-r--r-- 1 vaishnavi vaishnavi      1440 Nov  9 22:28 key.o
+-rw-r--r-- 1 vaishnavi vaishnavi         4 Nov  7 21:59 merge1.txt
+-rw-r--r-- 1 vaishnavi vaishnavi        18 Oct 29 21:18 merge2.txt
+-rw-r--r-- 1 vaishnavi vaishnavi      6460 Oct 29 19:11 numericrule.txt
+-rw-r--r-- 1 vaishnavi vaishnavi 440000000 Nov  7 00:14 s.txt
+-rw-r--r-- 1 vaishnavi vaishnavi         0 Nov  9 23:19 sample.txt
+-rw-r--r-- 1 vaishnavi vaishnavi      8486 Nov  4 05:47 string.c
+-rw-r--r-- 1 vaishnavi vaishnavi     13912 Nov  9 22:28 string.o
+-rw-r--r-- 1 vaishnavi vaishnavi       230 Oct 29 20:38 string1.h
+-rw-r--r-- 1 vaishnavi vaishnavi       170 Nov  1 03:04 test.c
+drwxr-xr-x 2 vaishnavi vaishnavi      4096 Nov  2 05:53 testcases
